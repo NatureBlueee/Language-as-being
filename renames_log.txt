@@ -1,0 +1,12 @@
+Starting script...
+Found 10 markdown files.
+RENAME: 'datalab-output-1-s2.0-S1075293524001028-main.pdf.md' -> 'A meta-analysis of relationships between syntactic features and writing performance and how the relationships vary by student characteristics and measurement features.md'
+RENAME: 'datalab-output-applsci-12-07518-v2.pdf.md' -> 'Post-Authorship Attribution Using Regularized Deep Neural Network.md'
+RENAME: 'datalab-output-A_Survey_on_Stylometric_Text_Features.pdf.md' -> 'A Survey on Stylometric Text Features.md'
+RENAME: 'datalab-output-jss_2021120615293486.pdf.md' -> 'A Stylometric Investigation of Linguistic Styles Based on a Vietnamese Corpus.md'
+KEEP: 'Distinguishing AI-Generated and Human-Written Text Through Psycholinguistic Analysis.md'
+RENAME: 'lind-et-al-2024-narrative-identity-traits-and-trajectories-of-depression-and-well-being-a-9-year-longitudinal-study.pdf.md' -> 'Narrative Identity, Traits, and Trajectories of Depression and Well-Being A 9-Year Longitudinal Study.md'
+RENAME: 'PersSocPsycholRev2016Adler.pdf.md' -> 'The Incremental Validity of Narrative Identity in Predicting Well-Being A Review of the Field and Recommendations for the Future.md'
+RENAME: 'Psychobiography-AP.pdf.md' -> 'Psychobiography Theory and Method.md'
+RENAME: 'The contemporary theory of metaphor.md' -> 'The contemporary theory of metaphor — now new and improved!.md'
+RENAME: 'the-empirical-structure-of-narrative-identity-the-initial.md' -> 'The Structure of Narrative Identity 1.md'
